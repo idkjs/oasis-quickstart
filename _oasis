@@ -1,0 +1,11 @@
+OASISFormat: 0.4
+Name:        Alain Armand
+Version:     0.1
+Synopsis:    Hello world with OCaml and OASIS
+Authors:     Alain Armand
+License:     MIT
+Plugins:     META (0.4)
+Executable helloworld
+  Path:       .
+  BuildTools: ocamlbuild
+  MainIs:     main.ml
