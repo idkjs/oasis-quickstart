@@ -1,5 +1,16 @@
 # Oasis Quickstart
 
+## TLDR
+
+These are generally the commands to run:
+
+```sh
+oasis setup
+ocaml setup.ml -configure
+ocaml setup.ml -build
+ocaml setup.ml -install
+```
+
 http://oasis.forge.ocamlcore.org/quickstart.html
 
 ## Resources
