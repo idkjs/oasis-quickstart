@@ -2,6 +2,10 @@
 
 http://oasis.forge.ocamlcore.org/quickstart.html
 
+## Resources
+
+[Oasis Quickstart](http://oasis.forge.ocamlcore.org/quickstart.html)
+[Setting up with Oasis](https://ocaml.org/learn/tutorials/setting_up_with_oasis.html)
 
 ## Output
 
